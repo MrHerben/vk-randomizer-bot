@@ -45,6 +45,8 @@ vk_session = vk_api.VkApi(token = '67DBcnduASZfbAfaBSC783dfbAJScmOAC7ANDaoiskcNS
 	members = vk_session.method('groups.getMembers', {'group_id' : 206993699})['items']
 ```
 
+Создайте файл "data.txt" (база данных) в папке с main.py
+
 ## Запуск
 
 Запускайте main.py, пишите "начать" в личные сообщения сообщества и наслаждайтесь!
