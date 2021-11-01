@@ -1,2 +1,3 @@
 # vk-randomizer-bot
-A simple bot for the community pm in VK with funny answers instead of errors when the user enters values incorrectly
+Простой бот для лс сообщества в вк с шуточными ответами вместо ошибок при неправильном вводе пользователем значений
+
