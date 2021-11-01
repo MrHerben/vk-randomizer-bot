@@ -1,5 +1,6 @@
 # Бот Рандомайзер | Генератор случайных чисел
 v1.05
+
 ![image](https://user-images.githubusercontent.com/92934389/139707853-b46f177e-4942-4bcf-9a04-483215db6ba6.png)
 ![image](https://user-images.githubusercontent.com/92934389/139708451-a4b2e88e-dbe9-4b42-ae5d-66adc7123ef8.png)
 ![image](https://user-images.githubusercontent.com/92934389/139708645-e635e58c-aa44-47a7-ae47-f71796588254.png)
