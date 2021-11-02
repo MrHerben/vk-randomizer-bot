@@ -10,9 +10,27 @@
 *Оригинал: https://vk.com/bot_randomizer*
 
 ## Установка библиотеки
+
+Для Windows зайдите в папку своего пользователя
+
+![image](https://user-images.githubusercontent.com/92934389/139820839-bb94b4f9-9355-4ce8-92dc-96f834425020.png)
+
+Нажмите на строку места
+
+![image](https://user-images.githubusercontent.com/92934389/139820872-248bd1e0-3537-4042-a345-283cf2b1f39f.png)
+
+Введите там "cmd"
+
+![image](https://user-images.githubusercontent.com/92934389/139820939-c5d079b0-89db-403f-9b3f-367ad9bab2ed.png)
+
+И уже там команду
+
 ```python
-$ pip3 install vk_api
+pip3 install vk_api
 ```
+
+Для Linux достаточно с рабочего стола ввести эту команду (насколько мне известно)
+
 ## Настройка
 Перед запуском необходимо создать токен в сообществе и вставить его в main.py
 ![image](https://user-images.githubusercontent.com/92934389/139710924-937da8a8-f726-498f-b268-156ecfa8fa37.png)
