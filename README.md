@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/92934389/139820872-248bd1e0-3537-4042-a345-283cf2b1f39f.png)
 
-Введите там "cmd"
+Введите там "cmd" и нажмите Enter
 
 ![image](https://user-images.githubusercontent.com/92934389/139820939-c5d079b0-89db-403f-9b3f-367ad9bab2ed.png)
 
