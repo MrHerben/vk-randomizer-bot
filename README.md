@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/92934389/139820939-c5d079b0-89db-403f-9b3f-367ad9bab2ed.png)
 
-И в появившейся коснсоли пишем команду ниже:
+И в появившейся коснсоли впишите команду ниже:
 
 ```python
 pip3 install vk_api
