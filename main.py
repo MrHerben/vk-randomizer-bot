@@ -148,7 +148,7 @@ for event in longpoll.listen():
 							if user.mode == 'start':
 
 								if msg == '❗ инфо':
-									sender(id, '🤖 Бот сделан с ❤ на:\n\n👅 Языке Python\n✅ Оригинальном VkApi\n📡 Хостинге PythonAnywhere 🐍', back_key)
+									sender(id, '🤖 Бот сделан с ❤ на:\n\n👅 Языке Python\n✅ Оригинальном VkApi\n', back_key)
 									user.mode = 'info'
 
 								if msg == '⚡ сгенерировать':
