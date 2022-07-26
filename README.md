@@ -1,35 +1,18 @@
 # Бот Рандомайзер | Генератор случайных чисел v1.05
 
-![image](https://user-images.githubusercontent.com/92934389/139707853-b46f177e-4942-4bcf-9a04-483215db6ba6.png)
-![image](https://user-images.githubusercontent.com/92934389/139708451-a4b2e88e-dbe9-4b42-ae5d-66adc7123ef8.png)
-![image](https://user-images.githubusercontent.com/92934389/139708645-e635e58c-aa44-47a7-ae47-f71796588254.png)
-
-
 Простой бот для лс сообщества в вк с шуточными ответами вместо ошибок при неправильном вводе пользователем значений
 
 *Оригинал: https://vk.com/bot_randomizer*
 
 ## Установка библиотеки
 
-Для Windows зайдите в папку своего пользователя
-
-![image](https://user-images.githubusercontent.com/92934389/139820839-bb94b4f9-9355-4ce8-92dc-96f834425020.png)
-
-Нажмите на строку места
-
-![image](https://user-images.githubusercontent.com/92934389/139820872-248bd1e0-3537-4042-a345-283cf2b1f39f.png)
-
-Введите "cmd" и нажмите Enter
-
-![image](https://user-images.githubusercontent.com/92934389/139820939-c5d079b0-89db-403f-9b3f-367ad9bab2ed.png)
-
-И в появившейся коснсоли впишите команду ниже:
+Для Windows введите в поиск пуска cmd и нажмите Enter, там введите:
 
 ```python
 pip3 install vk_api
 ```
 
-Для Linux достаточно с рабочего стола ввести эту команду (насколько мне известно)
+Для Linux честно в душе не ебу, как-то там через консоль и тоже это прописать
 
 ## Настройка
 Перед запуском необходимо создать токен в сообществе и вставить его в main.py
